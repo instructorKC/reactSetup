@@ -5,9 +5,13 @@
 2. In terminal type `cd my-app-name-here`
 3. Go to github and create a new repository without a readme
 4. Follow the directions github(start at command git branch -M main re-naming)  re-naming the branch from master to main
+
 `git branch -M main`
+
 `git remote add origin https://github.com/**YourURLHERE**/**YourREPO**t.git`   ( Copy and paste YOUR remote)
+
 `git push -u origin main`
+
 3. convert your App component in app.js to a class. Use this one:
 
 ```javascript
@@ -32,6 +36,3 @@ import React, {Component} from 'react';
 
 ```
 
-
-Check success
-`git remote -v`
