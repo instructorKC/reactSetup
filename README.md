@@ -12,7 +12,7 @@
 
 `git push -u origin main`
 
-3. convert your App component in app.js to a class. Use this one:
+5. convert your App component in app.js to a class. Use this one:
 
 ```javascript
 import React, {Component} from 'react';
