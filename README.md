@@ -14,6 +14,8 @@
 
 5. convert your App component in app.js to a class. Use this one:
 
+
+// NOT FOR CLASS MUSIC APP MATERIAL UI
 ```javascript
 import React, {Component} from 'react';
 
